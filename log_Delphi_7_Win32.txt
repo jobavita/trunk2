@@ -1,0 +1,1337 @@
+Versao Instalador: 2.8.0.5
+Versão do delphi: Delphi 7 Win32
+Dir. Instalação : C:\lazarus\trunk2\
+Dir. Bibliotecas: C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32
+
+Removendo librarypaths da instalação anterior do ACBr na IDE...
+...OK
+Removendo pacotes 32bits da instalação anterior do ACBr na IDE...
+...OK
+Criando diretórios de bibliotecas para Win32...
+...OK
+Adicionando library paths para Win32...
+...OK
+Alterando a variável de ambiente PATH do Delphi...
+...OK
+
+COMPILANDO OS PACOTES...
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\synapse\ACBr_synapse.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\synapse\ACBr_synapse.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+52467 lines, 1.67 seconds, 295864 bytes code, 29821 bytes data.
+Compilation success
+Pacote "ACBr_synapse.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrComum\ACBr_Comum.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrComum\ACBr_Comum.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+ACBr_Comum.dpk(55) Warning: Unit 'ACBrUtil' is deprecated
+Warning: Unit 'JsonsUtilsEx' implicitly imported into package 'ACBr_Comum'
+Warning: Unit 'ACBrZLibExGZ' implicitly imported into package 'ACBr_Comum'
+Warning: Unit 'ACBrZLibEx' implicitly imported into package 'ACBr_Comum'
+Warning: Unit 'ACBrZLibExApi' implicitly imported into package 'ACBr_Comum'
+66047 lines, 1.11 seconds, 204784 bytes code, 17169 bytes data.
+Compilation success
+Pacote "ACBr_Comum.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrComum\DCLACBr_Comum.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrComum\DCLACBr_Comum.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2687 lines, 0.20 seconds, 5048 bytes code, 117 bytes data.
+Compilation success
+Pacote "DCLACBr_Comum.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrOpenSSL\ACBr_OpenSSL.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrOpenSSL\ACBr_OpenSSL.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+16281 lines, 0.34 seconds, 78832 bytes code, 1569 bytes data.
+Compilation success
+Pacote "ACBr_OpenSSL.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrOpenSSL\DCLACBr_OpenSSL.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrOpenSSL\DCLACBr_OpenSSL.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+105 lines, 0.14 seconds, 3184 bytes code, 117 bytes data.
+Compilation success
+Pacote "DCLACBr_OpenSSL.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDiversos\ACBr_Diversos.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDiversos\ACBr_Diversos.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+47007 lines, 0.78 seconds, 175628 bytes code, 7377 bytes data.
+Compilation success
+Pacote "ACBr_Diversos.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDiversos\DCLACBr_Diversos.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDiversos\DCLACBr_Diversos.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2555 lines, 0.12 seconds, 4456 bytes code, 121 bytes data.
+Compilation success
+Pacote "DCLACBr_Diversos.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\PCNComum\ACBr_PCNComum.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\PCNComum\ACBr_PCNComum.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+40305 lines, 0.56 seconds, 172404 bytes code, 857 bytes data.
+Compilation success
+Pacote "ACBr_PCNComum.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrSerial\ACBr_Serial.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrSerial\ACBr_Serial.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+396314 lines, 4.42 seconds, 1377372 bytes code, 3573 bytes data.
+Compilation success
+Pacote "ACBr_Serial.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrSerial\DCLACBr_Serial.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrSerial\DCLACBr_Serial.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2594 lines, 0.20 seconds, 7832 bytes code, 117 bytes data.
+Compilation success
+Pacote "DCLACBr_Serial.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBr_TXTComum.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBr_TXTComum.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+4002 lines, 0.38 seconds, 114904 bytes code, 27025 bytes data.
+Compilation success
+Pacote "ACBr_TXTComum.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrConvenio115\ACBr_Convenio115.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrConvenio115\ACBr_Convenio115.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+3685 lines, 0.22 seconds, 26680 bytes code, 241 bytes data.
+Compilation success
+Pacote "ACBr_Convenio115.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrConvenio115\DCLACBr_Convenio115.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrConvenio115\DCLACBr_Convenio115.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2465 lines, 0.16 seconds, 3188 bytes code, 117 bytes data.
+Compilation success
+Pacote "DCLACBr_Convenio115.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrLFD\ACBr_LFD.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrLFD\ACBr_LFD.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+23189 lines, 1.45 seconds, 180612 bytes code, 321 bytes data.
+Compilation success
+Pacote "ACBr_LFD.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrLFD\DCLACBr_LFD.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrLFD\DCLACBr_LFD.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2468 lines, 0.20 seconds, 4196 bytes code, 117 bytes data.
+Compilation success
+Pacote "DCLACBr_LFD.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrEDI\ACBr_EDI.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrEDI\ACBr_EDI.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+21287 lines, 0.38 seconds, 157764 bytes code, 141 bytes data.
+Compilation success
+Pacote "ACBr_EDI.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrEDI\DCLACBr_EDI.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrEDI\DCLACBr_EDI.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2498 lines, 0.17 seconds, 3368 bytes code, 117 bytes data.
+Compilation success
+Pacote "DCLACBr_EDI.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrPAF\ACBr_PAF.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrPAF\ACBr_PAF.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+55213 lines, 1.44 seconds, 106048 bytes code, 297 bytes data.
+Compilation success
+Pacote "ACBr_PAF.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrPAF\DCLACBr_PAF.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrPAF\DCLACBr_PAF.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2466 lines, 0.12 seconds, 4316 bytes code, 117 bytes data.
+Compilation success
+Pacote "DCLACBr_PAF.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSEF2\ACBr_SEF2.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSEF2\ACBr_SEF2.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+41814 lines, 0.72 seconds, 140960 bytes code, 165 bytes data.
+Compilation success
+Pacote "ACBr_SEF2.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSEF2\DCLACBr_SEF2.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSEF2\DCLACBr_SEF2.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2465 lines, 0.12 seconds, 3404 bytes code, 117 bytes data.
+Compilation success
+Pacote "DCLACBr_SEF2.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSintegra\ACBr_Sintegra.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSintegra\ACBr_Sintegra.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+6355 lines, 0.19 seconds, 57104 bytes code, 117 bytes data.
+Compilation success
+Pacote "ACBr_Sintegra.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSintegra\DCLACBr_Sintegra.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSintegra\DCLACBr_Sintegra.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+101 lines, 0.20 seconds, 2996 bytes code, 117 bytes data.
+Compilation success
+Pacote "DCLACBr_Sintegra.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSPED\ACBr_SPED.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSPED\ACBr_SPED.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+173811 lines, 3.52 seconds, 1041456 bytes code, 545 bytes data.
+Compilation success
+Pacote "ACBr_SPED.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSPED\DCLACBr_SPED.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSPED\DCLACBr_SPED.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+69 lines, 0.20 seconds, 5472 bytes code, 117 bytes data.
+Compilation success
+Pacote "DCLACBr_SPED.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSPED\Importar\ACBr_SPEDImportar.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSPED\Importar\ACBr_SPEDImportar.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+7664 lines, 0.75 seconds, 108884 bytes code, 201 bytes data.
+Compilation success
+Pacote "ACBr_SPEDImportar.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSPED\Importar\DCLACBr_SPEDImportar.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSPED\Importar\DCLACBr_SPEDImportar.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2466 lines, 0.17 seconds, 4856 bytes code, 117 bytes data.
+Compilation success
+Pacote "DCLACBr_SPEDImportar.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrDeSTDA\ACBr_DeSTDA.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrDeSTDA\ACBr_DeSTDA.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+3338 lines, 0.42 seconds, 34680 bytes code, 153 bytes data.
+Compilation success
+Pacote "ACBr_DeSTDA.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrDeSTDA\DCLACBr_DeSTDA.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrDeSTDA\DCLACBr_DeSTDA.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+94 lines, 0.16 seconds, 3332 bytes code, 117 bytes data.
+Compilation success
+Pacote "DCLACBr_DeSTDA.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrPonto\ACBr_Ponto.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrPonto\ACBr_Ponto.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+4515 lines, 0.44 seconds, 24516 bytes code, 141 bytes data.
+Compilation success
+Pacote "ACBr_Ponto.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrPonto\DCLACBr_Ponto.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrPonto\DCLACBr_Ponto.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2493 lines, 0.12 seconds, 3236 bytes code, 117 bytes data.
+Compilation success
+Pacote "DCLACBr_Ponto.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrLCDPR\ACBr_LCDPR.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrLCDPR\ACBr_LCDPR.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2506 lines, 0.48 seconds, 24992 bytes code, 177 bytes data.
+Compilation success
+Pacote "ACBr_LCDPR.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrLCDPR\DCLACBr_LCDPR.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrLCDPR\DCLACBr_LCDPR.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+91 lines, 0.11 seconds, 3164 bytes code, 117 bytes data.
+Compilation success
+Pacote "DCLACBr_LCDPR.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTCP\ACBr_TCP.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTCP\ACBr_TCP.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+125908 lines, 1.61 seconds, 190400 bytes code, 501 bytes data.
+Compilation success
+Pacote "ACBr_TCP.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTCP\DCLACBr_TCP.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTCP\DCLACBr_TCP.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+110 lines, 0.16 seconds, 4184 bytes code, 117 bytes data.
+Compilation success
+Pacote "DCLACBr_TCP.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTCP\ACBr_MTER.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTCP\ACBr_MTER.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+16976 lines, 0.31 seconds, 31472 bytes code, 145 bytes data.
+Compilation success
+Pacote "ACBr_MTER.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTCP\DCLACBr_MTER.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTCP\DCLACBr_MTER.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+106 lines, 0.16 seconds, 4508 bytes code, 117 bytes data.
+Compilation success
+Pacote "DCLACBr_MTER.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrPIXCD\ACBr_PIXCD.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrPIXCD\ACBr_PIXCD.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+93461 lines, 1.28 seconds, 197928 bytes code, 297 bytes data.
+Compilation success
+Pacote "ACBr_PIXCD.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrPIXCD\DCLACBr_PIXCD.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrPIXCD\DCLACBr_PIXCD.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+5120 lines, 0.17 seconds, 7256 bytes code, 129 bytes data.
+Compilation success
+Pacote "DCLACBr_PIXCD.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrIntegrador\ACBr_Integrador.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrIntegrador\ACBr_Integrador.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+9490 lines, 0.28 seconds, 33892 bytes code, 133 bytes data.
+Compilation success
+Pacote "ACBr_Integrador.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrIntegrador\DCLACBr_Integrador.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrIntegrador\DCLACBr_Integrador.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2515 lines, 0.16 seconds, 3340 bytes code, 117 bytes data.
+Compilation success
+Pacote "DCLACBr_Integrador.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBr_DFeComum.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBr_DFeComum.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+85237 lines, 1.17 seconds, 313508 bytes code, 6421 bytes data.
+Compilation success
+Pacote "ACBr_DFeComum.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\DCLACBr_DFeComum.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\DCLACBr_DFeComum.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2528 lines, 0.12 seconds, 3156 bytes code, 121 bytes data.
+Compilation success
+Pacote "DCLACBr_DFeComum.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrBoleto\ACBr_Boleto.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrBoleto\ACBr_Boleto.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+229058 lines, 3.17 seconds, 1663500 bytes code, 1753 bytes data.
+Compilation success
+Pacote "ACBr_Boleto.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrBoleto\DCLACBr_Boleto.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrBoleto\DCLACBr_Boleto.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2494 lines, 0.16 seconds, 7376 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_Boleto.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrPagFor\ACBr_PagFor.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrPagFor\ACBr_PagFor.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+127022 lines, 1.61 seconds, 354232 bytes code, 305 bytes data.
+Compilation success
+Pacote "ACBr_PagFor.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrPagFor\DCLACBr_PagFor.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrPagFor\DCLACBr_PagFor.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2564 lines, 0.17 seconds, 4616 bytes code, 117 bytes data.
+Compilation success
+Pacote "DCLACBr_PagFor.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\ACBr_NFe.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\ACBr_NFe.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+85288 lines, 1.12 seconds, 613284 bytes code, 225 bytes data.
+Compilation success
+Pacote "ACBr_NFe.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\DCLACBr_NFe.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\DCLACBr_NFe.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2551 lines, 0.23 seconds, 7112 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_NFe.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\ACBrECFVirtualNFCe\ACBr_NFCeECFVirtual.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\ACBrECFVirtualNFCe\ACBr_NFCeECFVirtual.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+3451 lines, 0.25 seconds, 24060 bytes code, 125 bytes data.
+Compilation success
+Pacote "ACBr_NFCeECFVirtual.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\ACBrECFVirtualNFCe\DCLACBr_NFCeECFVirtual.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\ACBrECFVirtualNFCe\DCLACBr_NFCeECFVirtual.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2460 lines, 0.20 seconds, 8020 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_NFCeECFVirtual.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\DANFE\NFCe\EscPos\ACBr_NFeDanfeESCPOS.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\DANFE\NFCe\EscPos\ACBr_NFeDanfeESCPOS.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+3589 lines, 0.22 seconds, 32696 bytes code, 125 bytes data.
+Compilation success
+Pacote "ACBr_NFeDanfeESCPOS.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\DANFE\NFCe\EscPos\DCLACBr_NFeDanfeESCPOS.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\DANFE\NFCe\EscPos\DCLACBr_NFeDanfeESCPOS.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2460 lines, 0.17 seconds, 7132 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_NFeDanfeESCPOS.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrCTe\ACBr_CTe.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrCTe\ACBr_CTe.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+75812 lines, 0.94 seconds, 477628 bytes code, 213 bytes data.
+Compilation success
+Pacote "ACBr_CTe.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrCTe\DCLACBr_CTe.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrCTe\DCLACBr_CTe.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2551 lines, 0.27 seconds, 7040 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_CTe.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFSe\ACBr_NFSe.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFSe\ACBr_NFSe.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+149657 lines, 1.76 seconds, 1568712 bytes code, 285 bytes data.
+Compilation success
+Pacote "ACBr_NFSe.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFSe\DCLACBr_NFSe.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFSe\DCLACBr_NFSe.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2541 lines, 0.22 seconds, 7160 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_NFSe.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFSeX\ACBr_NFSeX.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFSeX\ACBr_NFSeX.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+1077890 lines, 12.95 seconds, 2562840 bytes code, 3929 bytes data.
+Compilation success
+Pacote "ACBr_NFSeX.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFSeX\DCLACBr_NFSeX.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFSeX\DCLACBr_NFSeX.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2579 lines, 0.31 seconds, 15800 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_NFSeX.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrMDFe\ACBr_MDFe.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrMDFe\ACBr_MDFe.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+63590 lines, 0.97 seconds, 290080 bytes code, 201 bytes data.
+Compilation success
+Pacote "ACBr_MDFe.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrMDFe\DCLACBr_MDFe.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrMDFe\DCLACBr_MDFe.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+4979 lines, 0.25 seconds, 6956 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_MDFe.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrGNRE\ACBr_GNRE.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrGNRE\ACBr_GNRE.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+62749 lines, 0.88 seconds, 106812 bytes code, 217 bytes data.
+Compilation success
+Pacote "ACBr_GNRE.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrGNRE\DCLACBr_GNRE.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrGNRE\DCLACBr_GNRE.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2581 lines, 0.20 seconds, 6732 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_GNRE.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBreSocial\ACBre_Social.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBreSocial\ACBre_Social.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+242912 lines, 2.78 seconds, 855700 bytes code, 6609 bytes data.
+Compilation success
+Pacote "ACBre_Social.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBreSocial\DCLACBre_Social.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBreSocial\DCLACBre_Social.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+4992 lines, 0.25 seconds, 8020 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBre_Social.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrReinf\ACBr_Reinf.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrReinf\ACBr_Reinf.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+119193 lines, 1.51 seconds, 433464 bytes code, 701 bytes data.
+Compilation success
+Pacote "ACBr_Reinf.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrReinf\DCLACBr_Reinf.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrReinf\DCLACBr_Reinf.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+4964 lines, 0.19 seconds, 6948 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_Reinf.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\ACBr_SAT.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\ACBr_SAT.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+47510 lines, 0.73 seconds, 189788 bytes code, 193 bytes data.
+Compilation success
+Pacote "ACBr_SAT.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\DCLACBr_SAT.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\DCLACBr_SAT.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2509 lines, 0.19 seconds, 5980 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_SAT.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\ACBrECFVirtualSAT\ACBr_SATECFVirtual.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\ACBrECFVirtualSAT\ACBr_SATECFVirtual.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+3133 lines, 0.23 seconds, 17248 bytes code, 125 bytes data.
+Compilation success
+Pacote "ACBr_SATECFVirtual.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\ACBrECFVirtualSAT\DCLACBr_SATECFVirtual.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\ACBrECFVirtualSAT\DCLACBr_SATECFVirtual.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+61 lines, 0.20 seconds, 7612 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_SATECFVirtual.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\Extrato\EscPos\ACBr_SATExtratoESCPOS.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\Extrato\EscPos\ACBr_SATExtratoESCPOS.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+3357 lines, 0.34 seconds, 25804 bytes code, 125 bytes data.
+Compilation success
+Pacote "ACBr_SATExtratoESCPOS.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\Extrato\EscPos\DCLACBr_SATExtratoESCPOS.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\Extrato\EscPos\DCLACBr_SATExtratoESCPOS.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2494 lines, 0.19 seconds, 6724 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_SATExtratoESCPOS.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrSATWS\ACBr_SATWS.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrSATWS\ACBr_SATWS.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+12844 lines, 0.30 seconds, 15272 bytes code, 137 bytes data.
+Compilation success
+Pacote "ACBr_SATWS.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrSATWS\DCLACBr_SATWS.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrSATWS\DCLACBr_SATWS.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2520 lines, 0.20 seconds, 6012 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_SATWS.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrBlocoX\ACBr_BlocoX.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrBlocoX\ACBr_BlocoX.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+23171 lines, 0.36 seconds, 67176 bytes code, 153 bytes data.
+Compilation success
+Pacote "ACBr_BlocoX.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrBlocoX\DCLACBr_BlocoX.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrBlocoX\DCLACBr_BlocoX.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2525 lines, 0.23 seconds, 6112 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_BlocoX.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrBPe\ACBr_BPe.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrBPe\ACBr_BPe.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+53978 lines, 0.77 seconds, 208872 bytes code, 197 bytes data.
+Compilation success
+Pacote "ACBr_BPe.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrBPe\DCLACBr_BPe.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrBPe\DCLACBr_BPe.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2548 lines, 0.22 seconds, 6852 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_BPe.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrBPe\DABPE\EscPos\ACBr_BPeDabpeESCPOS.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrBPe\DABPE\EscPos\ACBr_BPeDabpeESCPOS.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+3200 lines, 0.17 seconds, 23392 bytes code, 125 bytes data.
+Compilation success
+Pacote "ACBr_BPeDabpeESCPOS.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrBPe\DABPE\EscPos\DCLACBr_BPeDabpeESCPOS.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrBPe\DABPE\EscPos\DCLACBr_BPeDabpeESCPOS.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2538 lines, 0.36 seconds, 6892 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_BPeDabpeESCPOS.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrANe\ACBr_ANe.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrANe\ACBr_ANe.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+27155 lines, 0.47 seconds, 41956 bytes code, 161 bytes data.
+Compilation success
+Pacote "ACBr_ANe.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrANe\DCLACBr_ANe.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrANe\DCLACBr_ANe.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2541 lines, 0.25 seconds, 6428 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_ANe.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrCIOT\ACBr_CIOT.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrCIOT\ACBr_CIOT.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+39425 lines, 0.56 seconds, 174180 bytes code, 173 bytes data.
+Compilation success
+Pacote "ACBr_CIOT.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrCIOT\DCLACBr_CIOT.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrCIOT\DCLACBr_CIOT.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+4973 lines, 0.23 seconds, 6508 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_CIOT.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrONE\ACBr_ONE.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrONE\ACBr_ONE.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+42940 lines, 0.69 seconds, 62588 bytes code, 181 bytes data.
+Compilation success
+Pacote "ACBr_ONE.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrONE\DCLACBr_ONE.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrONE\DCLACBr_ONE.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+4976 lines, 0.23 seconds, 6616 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_ONE.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNF3e\ACBr_NF3e.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNF3e\ACBr_NF3e.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+69415 lines, 1.39 seconds, 286648 bytes code, 209 bytes data.
+Compilation success
+Pacote "ACBr_NF3e.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNF3e\DCLACBr_NF3e.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNF3e\DCLACBr_NF3e.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2581 lines, 0.22 seconds, 7048 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_NF3e.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNF3e\DANF3e\EscPos\ACBr_NF3eDANF3eESCPOS.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNF3e\DANF3e\EscPos\ACBr_NF3eDANF3eESCPOS.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+5604 lines, 0.20 seconds, 22516 bytes code, 125 bytes data.
+Compilation success
+Pacote "ACBr_NF3eDANF3eESCPOS.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNF3e\DANF3e\EscPos\DCLACBr_NF3eDANF3eESCPOS.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNF3e\DANF3e\EscPos\DCLACBr_NF3eDANF3eESCPOS.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+4935 lines, 0.19 seconds, 7040 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_NF3eDANF3eESCPOS.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrGTIN\ACBr_GTIN.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrGTIN\ACBr_GTIN.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+20658 lines, 0.58 seconds, 19652 bytes code, 149 bytes data.
+Compilation success
+Pacote "ACBr_GTIN.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrGTIN\DCLACBr_GTIN.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrGTIN\DCLACBr_GTIN.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+5013 lines, 0.28 seconds, 7144 bytes code, 125 bytes data.
+Compilation success
+Pacote "DCLACBr_GTIN.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTEFD\ACBr_TEFD.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTEFD\ACBr_TEFD.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+103247 lines, 1.53 seconds, 363736 bytes code, 325 bytes data.
+Compilation success
+Pacote "ACBr_TEFD.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTEFD\DCLACBr_TEFD.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTEFD\DCLACBr_TEFD.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2499 lines, 0.12 seconds, 4156 bytes code, 117 bytes data.
+Compilation success
+Pacote "DCLACBr_TEFD.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrOFX\ACBr_OFX.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrOFX\ACBr_OFX.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2731 lines, 0.12 seconds, 5640 bytes code, 73 bytes data.
+Compilation success
+Pacote "ACBr_OFX.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrOFX\DCLACBr_OFX.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrOFX\DCLACBr_OFX.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2499 lines, 0.09 seconds, 1116 bytes code, 73 bytes data.
+Compilation success
+Pacote "DCLACBr_OFX.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrADRCST\ACBr_ADRCST.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrADRCST\ACBr_ADRCST.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+25302 lines, 0.59 seconds, 37624 bytes code, 149 bytes data.
+Compilation success
+Pacote "ACBr_ADRCST.dpk" compilado com sucesso.
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrADRCST\DCLACBr_ADRCST.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrADRCST\DCLACBr_ADRCST.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2498 lines, 0.14 seconds, 3332 bytes code, 117 bytes data.
+Compilation success
+Pacote "DCLACBr_ADRCST.dpk" compilado com sucesso.
+
+INSTALANDO OS PACOTES...
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrComum\DCLACBr_Comum.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrComum\DCLACBr_Comum.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrComum\DCLACBr_Comum.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2687 lines, 0.17 seconds, 5048 bytes code, 117 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_Comum.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_Comum.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrOpenSSL\DCLACBr_OpenSSL.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrOpenSSL\DCLACBr_OpenSSL.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrOpenSSL\DCLACBr_OpenSSL.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+105 lines, 0.09 seconds, 3184 bytes code, 117 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_OpenSSL.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_OpenSSL.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDiversos\DCLACBr_Diversos.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDiversos\DCLACBr_Diversos.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDiversos\DCLACBr_Diversos.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2555 lines, 0.11 seconds, 4456 bytes code, 121 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_Diversos.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_Diversos.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrSerial\DCLACBr_Serial.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrSerial\DCLACBr_Serial.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrSerial\DCLACBr_Serial.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2594 lines, 0.16 seconds, 7832 bytes code, 117 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_Serial.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_Serial.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrConvenio115\DCLACBr_Convenio115.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrConvenio115\DCLACBr_Convenio115.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrConvenio115\DCLACBr_Convenio115.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2465 lines, 0.14 seconds, 3188 bytes code, 117 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_Convenio115.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_Convenio115.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrLFD\DCLACBr_LFD.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrLFD\DCLACBr_LFD.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrLFD\DCLACBr_LFD.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2468 lines, 0.12 seconds, 4196 bytes code, 117 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_LFD.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_LFD.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrEDI\DCLACBr_EDI.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrEDI\DCLACBr_EDI.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrEDI\DCLACBr_EDI.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2498 lines, 0.12 seconds, 3368 bytes code, 117 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_EDI.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_EDI.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrPAF\DCLACBr_PAF.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrPAF\DCLACBr_PAF.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrPAF\DCLACBr_PAF.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2466 lines, 0.11 seconds, 4316 bytes code, 117 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_PAF.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_PAF.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSEF2\DCLACBr_SEF2.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSEF2\DCLACBr_SEF2.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSEF2\DCLACBr_SEF2.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2465 lines, 0.09 seconds, 3404 bytes code, 117 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_SEF2.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_SEF2.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSintegra\DCLACBr_Sintegra.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSintegra\DCLACBr_Sintegra.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSintegra\DCLACBr_Sintegra.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+101 lines, 0.11 seconds, 2996 bytes code, 117 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_Sintegra.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_Sintegra.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSPED\DCLACBr_SPED.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSPED\DCLACBr_SPED.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSPED\DCLACBr_SPED.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+69 lines, 0.22 seconds, 5472 bytes code, 117 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_SPED.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_SPED.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSPED\Importar\DCLACBr_SPEDImportar.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSPED\Importar\DCLACBr_SPEDImportar.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrSPED\Importar\DCLACBr_SPEDImportar.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2466 lines, 0.16 seconds, 4856 bytes code, 117 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_SPEDImportar.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_SPEDImportar.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrDeSTDA\DCLACBr_DeSTDA.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrDeSTDA\DCLACBr_DeSTDA.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrDeSTDA\DCLACBr_DeSTDA.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+94 lines, 0.09 seconds, 3332 bytes code, 117 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_DeSTDA.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_DeSTDA.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrPonto\DCLACBr_Ponto.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrPonto\DCLACBr_Ponto.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrPonto\DCLACBr_Ponto.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2493 lines, 0.11 seconds, 3236 bytes code, 117 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_Ponto.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_Ponto.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrLCDPR\DCLACBr_LCDPR.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrLCDPR\DCLACBr_LCDPR.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrLCDPR\DCLACBr_LCDPR.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+91 lines, 0.11 seconds, 3164 bytes code, 117 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_LCDPR.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_LCDPR.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTCP\DCLACBr_TCP.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTCP\DCLACBr_TCP.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTCP\DCLACBr_TCP.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+110 lines, 0.09 seconds, 4184 bytes code, 117 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_TCP.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_TCP.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTCP\DCLACBr_MTER.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTCP\DCLACBr_MTER.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTCP\DCLACBr_MTER.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+106 lines, 0.20 seconds, 4508 bytes code, 117 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_MTER.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_MTER.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrPIXCD\DCLACBr_PIXCD.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrPIXCD\DCLACBr_PIXCD.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrPIXCD\DCLACBr_PIXCD.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+5120 lines, 0.12 seconds, 7256 bytes code, 129 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_PIXCD.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_PIXCD.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrIntegrador\DCLACBr_Integrador.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrIntegrador\DCLACBr_Integrador.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrIntegrador\DCLACBr_Integrador.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2515 lines, 0.19 seconds, 3340 bytes code, 117 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_Integrador.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_Integrador.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\DCLACBr_DFeComum.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\DCLACBr_DFeComum.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\DCLACBr_DFeComum.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2528 lines, 0.11 seconds, 3156 bytes code, 121 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_DFeComum.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_DFeComum.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrBoleto\DCLACBr_Boleto.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrBoleto\DCLACBr_Boleto.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrBoleto\DCLACBr_Boleto.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2494 lines, 0.17 seconds, 7376 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_Boleto.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_Boleto.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrPagFor\DCLACBr_PagFor.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrPagFor\DCLACBr_PagFor.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrPagFor\DCLACBr_PagFor.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2564 lines, 0.12 seconds, 4616 bytes code, 117 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_PagFor.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_PagFor.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\DCLACBr_NFe.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\DCLACBr_NFe.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\DCLACBr_NFe.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2551 lines, 0.30 seconds, 7112 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_NFe.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_NFe.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\ACBrECFVirtualNFCe\DCLACBr_NFCeECFVirtual.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\ACBrECFVirtualNFCe\DCLACBr_NFCeECFVirtual.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\ACBrECFVirtualNFCe\DCLACBr_NFCeECFVirtual.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2460 lines, 0.19 seconds, 8020 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_NFCeECFVirtual.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_NFCeECFVirtual.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\DANFE\NFCe\EscPos\DCLACBr_NFeDanfeESCPOS.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\DANFE\NFCe\EscPos\DCLACBr_NFeDanfeESCPOS.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\DANFE\NFCe\EscPos\DCLACBr_NFeDanfeESCPOS.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2460 lines, 0.19 seconds, 7132 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_NFeDanfeESCPOS.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_NFeDanfeESCPOS.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrCTe\DCLACBr_CTe.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrCTe\DCLACBr_CTe.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrCTe\DCLACBr_CTe.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2551 lines, 0.22 seconds, 7040 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_CTe.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_CTe.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFSe\DCLACBr_NFSe.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFSe\DCLACBr_NFSe.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFSe\DCLACBr_NFSe.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2541 lines, 0.34 seconds, 7160 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_NFSe.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_NFSe.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFSeX\DCLACBr_NFSeX.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFSeX\DCLACBr_NFSeX.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFSeX\DCLACBr_NFSeX.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2579 lines, 0.39 seconds, 15800 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_NFSeX.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_NFSeX.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrMDFe\DCLACBr_MDFe.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrMDFe\DCLACBr_MDFe.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrMDFe\DCLACBr_MDFe.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+4979 lines, 0.28 seconds, 6956 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_MDFe.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_MDFe.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrGNRE\DCLACBr_GNRE.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrGNRE\DCLACBr_GNRE.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrGNRE\DCLACBr_GNRE.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2581 lines, 0.41 seconds, 6732 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_GNRE.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_GNRE.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBreSocial\DCLACBre_Social.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBreSocial\DCLACBre_Social.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBreSocial\DCLACBre_Social.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+4992 lines, 0.81 seconds, 8020 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBre_Social.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBre_Social.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrReinf\DCLACBr_Reinf.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrReinf\DCLACBr_Reinf.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrReinf\DCLACBr_Reinf.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+4964 lines, 0.20 seconds, 6948 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_Reinf.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_Reinf.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\DCLACBr_SAT.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\DCLACBr_SAT.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\DCLACBr_SAT.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2509 lines, 0.19 seconds, 5980 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_SAT.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_SAT.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\ACBrECFVirtualSAT\DCLACBr_SATECFVirtual.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\ACBrECFVirtualSAT\DCLACBr_SATECFVirtual.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\ACBrECFVirtualSAT\DCLACBr_SATECFVirtual.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+61 lines, 0.23 seconds, 7612 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_SATECFVirtual.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_SATECFVirtual.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\Extrato\EscPos\DCLACBr_SATExtratoESCPOS.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\Extrato\EscPos\DCLACBr_SATExtratoESCPOS.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\Extrato\EscPos\DCLACBr_SATExtratoESCPOS.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2494 lines, 0.33 seconds, 6724 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_SATExtratoESCPOS.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_SATExtratoESCPOS.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrSATWS\DCLACBr_SATWS.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrSATWS\DCLACBr_SATWS.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrSATWS\DCLACBr_SATWS.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2520 lines, 0.58 seconds, 6012 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_SATWS.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_SATWS.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrBlocoX\DCLACBr_BlocoX.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrBlocoX\DCLACBr_BlocoX.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrBlocoX\DCLACBr_BlocoX.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2525 lines, 0.30 seconds, 6112 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_BlocoX.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_BlocoX.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrBPe\DCLACBr_BPe.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrBPe\DCLACBr_BPe.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrBPe\DCLACBr_BPe.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2548 lines, 0.36 seconds, 6852 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_BPe.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_BPe.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrBPe\DABPE\EscPos\DCLACBr_BPeDabpeESCPOS.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrBPe\DABPE\EscPos\DCLACBr_BPeDabpeESCPOS.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrBPe\DABPE\EscPos\DCLACBr_BPeDabpeESCPOS.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2538 lines, 0.47 seconds, 6892 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_BPeDabpeESCPOS.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_BPeDabpeESCPOS.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrANe\DCLACBr_ANe.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrANe\DCLACBr_ANe.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrANe\DCLACBr_ANe.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2541 lines, 0.36 seconds, 6428 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_ANe.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_ANe.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrCIOT\DCLACBr_CIOT.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrCIOT\DCLACBr_CIOT.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrCIOT\DCLACBr_CIOT.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+4973 lines, 0.38 seconds, 6508 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_CIOT.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_CIOT.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrONE\DCLACBr_ONE.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrONE\DCLACBr_ONE.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrONE\DCLACBr_ONE.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+4976 lines, 0.25 seconds, 6616 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_ONE.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_ONE.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNF3e\DCLACBr_NF3e.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNF3e\DCLACBr_NF3e.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNF3e\DCLACBr_NF3e.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2581 lines, 0.22 seconds, 7048 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_NF3e.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_NF3e.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNF3e\DANF3e\EscPos\DCLACBr_NF3eDANF3eESCPOS.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNF3e\DANF3e\EscPos\DCLACBr_NF3eDANF3eESCPOS.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNF3e\DANF3e\EscPos\DCLACBr_NF3eDANF3eESCPOS.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+4935 lines, 0.38 seconds, 7040 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_NF3eDANF3eESCPOS.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_NF3eDANF3eESCPOS.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrGTIN\DCLACBr_GTIN.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrGTIN\DCLACBr_GTIN.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrGTIN\DCLACBr_GTIN.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+5013 lines, 0.30 seconds, 7144 bytes code, 125 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_GTIN.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_GTIN.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTEFD\DCLACBr_TEFD.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTEFD\DCLACBr_TEFD.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTEFD\DCLACBr_TEFD.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2499 lines, 0.19 seconds, 4156 bytes code, 117 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_TEFD.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_TEFD.dpk" instalado com sucesso.
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrOFX\DCLACBr_OFX.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrOFX\DCLACBr_OFX.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrOFX\DCLACBr_OFX.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2499 lines, 0.08 seconds, 1116 bytes code, 73 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_OFX.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_OFX.dpk" instalado com sucesso.
+Uninstalling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrOpenDelivery\DCLACBr_OpenDelivery.dpk
+Removing from registry package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_OpenDelivery.bpl
+Unregistration failed
+Uninstallation of package finished
+Uninstalling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrAndroid\DCLACBr_Android.dpk
+Removing from registry package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_Android.bpl
+Unregistration failed
+Uninstallation of package finished
+Uninstalling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\DANFE\NFe\Fast\DCLACBr_NFeDanfeFR.dpk
+Removing from registry package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_NFeDanfeFR.bpl
+Unregistration failed
+Uninstallation of package finished
+Uninstalling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrCTe\DACTE\Fast\DCLACBr_CTeDacteFR.dpk
+Removing from registry package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_CTeDacteFR.bpl
+Unregistration failed
+Uninstallation of package finished
+Uninstalling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFSe\DANFSE\Fast\DCLACBr_NFSeDanfseFR.dpk
+Removing from registry package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_NFSeDanfseFR.bpl
+Unregistration failed
+Uninstallation of package finished
+Uninstalling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrBoleto\FC\Fast\DCLACBr_BoletoFR.dpk
+Removing from registry package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_BoletoFR.bpl
+Unregistration failed
+Uninstallation of package finished
+Uninstalling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrMDFe\DAMDFE\Fast\DCLACBr_MDFeDamdfeFR.dpk
+Removing from registry package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_MDFeDamdfeFR.bpl
+Unregistration failed
+Uninstallation of package finished
+Uninstalling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrGNRE\GNRE\Fast\DCLACBr_GNREGuiaFR.dpk
+Removing from registry package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_GNREGuiaFR.bpl
+Unregistration failed
+Uninstallation of package finished
+Uninstalling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFe\DANFE\NFe\Fortes\DCLACBr_NFeDanfeRL.dpk
+Removing from registry package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_NFeDanfeRL.bpl
+Unregistration failed
+Uninstallation of package finished
+Uninstalling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFSe\DANFSE\Fortes\DCLACBr_NFSeDanfseRL.dpk
+Removing from registry package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_NFSeDanfseRL.bpl
+Unregistration failed
+Uninstallation of package finished
+Uninstalling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFSeX\DANFSE\Fortes\DCLACBr_NFSeXDanfseRL.dpk
+Removing from registry package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_NFSeXDanfseRL.bpl
+Unregistration failed
+Uninstallation of package finished
+Uninstalling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrCTe\DACTE\Fortes\DCLACBr_CTeDacteRL.dpk
+Removing from registry package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_CTeDacteRL.bpl
+Unregistration failed
+Uninstallation of package finished
+Uninstalling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrBoleto\FC\Fortes\DCLACBr_BoletoRL.dpk
+Removing from registry package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_BoletoRL.bpl
+Unregistration failed
+Uninstallation of package finished
+Uninstalling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrMDFe\DAMDFE\Fortes\DCLACBr_MDFeDamdfeRL.dpk
+Removing from registry package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_MDFeDamdfeRL.bpl
+Unregistration failed
+Uninstallation of package finished
+Uninstalling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\Extrato\Fortes\DCLACBr_SATExtratoRL.dpk
+Removing from registry package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_SATExtratoRL.bpl
+Unregistration failed
+Uninstallation of package finished
+Uninstalling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrGNRE\GNRE\Fortes\DCLACBr_GNREGuiaRL.dpk
+Removing from registry package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_GNREGuiaRL.bpl
+Unregistration failed
+Uninstallation of package finished
+Installing package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrADRCST\DCLACBr_ADRCST.dpk
+Compiling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrADRCST\DCLACBr_ADRCST.dpk
+"C:\Program Files (x86)\Borland\Delphi7\bin\dcc32.exe" "C:\lazarus\trunk2\Pacotes\Delphi\ACBrTXT\ACBrADRCST\DCLACBr_ADRCST.dpk"
+Borland Delphi Version 15.0
+Copyright (c) 1983,2002 Borland Software Corporation
+2498 lines, 0.59 seconds, 3332 bytes code, 117 bytes data.
+Compilation success
+Registering package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_ADRCST.bpl
+Registration ok
+Installation of package finished
+Pacote "ACBr_ADRCST.dpk" instalado com sucesso.
+Uninstalling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrSAT\Extrato\Fast\DCLACBr_SATExtratoFR.dpk
+Removing from registry package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_SATExtratoFR.bpl
+Unregistration failed
+Uninstallation of package finished
+Uninstalling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrNFSeX\DANFSE\Fast\DCLACBr_NFSeXDanfseFR.dpk
+Removing from registry package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_NFSeXDanfseFR.bpl
+Unregistration failed
+Uninstallation of package finished
+Uninstalling package C:\lazarus\trunk2\Pacotes\Delphi\ACBrDFe\ACBrPAFNFCe\DCLACBr_PAFNFCe.dpk
+Removing from registry package C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32\DCLACBr_PAFNFCe.bpl
+Unregistration failed
+Uninstallation of package finished
+
+INSTALANDO OUTROS REQUISITOS...
+Limpeza library path com sucesso
+Cópia dos arquivos necessário feita com sucesso para: C:\lazarus\trunk2\Lib\Delphi\LibD7\Win32
+AVISO: Arquivo já se encontra no destino. Não sobrescrito: "C:\Windows\SysWOW64\libcrypto-1_1.dll"
+AVISO: Arquivo já se encontra no destino. Não sobrescrito: "C:\Windows\SysWOW64\libssl-1_1.dll"
+OPENSSL instalado com sucesso em "C:\Windows\SysWOW64"
+AVISO: Arquivo já se encontra no destino. Não sobrescrito: "C:\Windows\SysWOW64\libexslt.dll"
+AVISO: Arquivo já se encontra no destino. Não sobrescrito: "C:\Windows\SysWOW64\libiconv.dll"
+AVISO: Arquivo já se encontra no destino. Não sobrescrito: "C:\Windows\SysWOW64\libxml2.dll"
+AVISO: Arquivo já se encontra no destino. Não sobrescrito: "C:\Windows\SysWOW64\libxslt.dll"
+LibXml2 instalado com sucesso em "C:\Windows\SysWOW64"
+AVISO: Arquivo já se encontra no destino. Não sobrescrito: "C:\Windows\SysWOW64\iconv.dll"
+AVISO: Arquivo já se encontra no destino. Não sobrescrito: "C:\Windows\SysWOW64\inpout32.dll"
+AVISO: Arquivo já se encontra no destino. Não sobrescrito: "C:\Windows\SysWOW64\msvcr71.dll"
+DLLs diversas instalado com sucesso em "C:\Windows\SysWOW64"
